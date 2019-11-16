@@ -35,3 +35,4 @@ foreach ($gambar as $key => $value) {
 }
 echo json_encode($results, JSON_PRETTY_PRINT);
 //var_dump($gambar);
+//print_r($mmek);
